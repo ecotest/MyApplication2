@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Камень. Ножницы. Бумага.</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_about">О программе</string>
+    <string name="descr_overflow_button">descr_overflow_button</string>
+    <string name="menu_about_title">Важное сообщение!</string>
+    <string name="menu_about_message">Покормите кота!</string>
+    <string name="menu_about_button">ОК, иду на кухню</string>
+
+    <string name="showresult_lost">Ох! Ты проиграл! :(</string>
+    <string name="showresult_won">ДА! Ты выиграл! :)</string>
+    <string name="showresult_draw">Упс! Ничья! :P</string>
+
+    <string name="link_icon"><a href="https://ru.icons8.com">Набор иконок от Icons8</a></string>
+
+
+</resources>
